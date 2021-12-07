@@ -1,0 +1,23 @@
+.p1{
+  background-color: #bf7000;
+  border-style: groove;
+}
+
+.p2{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
+.p3{
+  font-family: monospace;
+  border-style: solid;
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+.p4{
+  background-color: #404040;
+  font-size: 25px;
+  font-weight: bold;
+}
